@@ -1,4 +1,5 @@
 # draft_gmail_chatgpt
+https://user-images.githubusercontent.com/36523448/210385782-616bdf4b-0e62-4a5d-ab3f-d06502248548.mp4
 
 ## How to use
 - Create keys directory and params files.
