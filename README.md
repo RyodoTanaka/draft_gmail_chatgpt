@@ -2,6 +2,10 @@
 https://user-images.githubusercontent.com/36523448/210385782-616bdf4b-0e62-4a5d-ab3f-d06502248548.mp4
 
 ## How to use
+### Install depends
+```
+$ pip3 install -r requirements.txt
+``` 
 ### Get chatGPT session token
 You need to go browser's coockie page to get a chatgpt session token as shown like following.
 1. Go to the [chatGPT page](https://chat.openai.com/chat) and login (or register) 
